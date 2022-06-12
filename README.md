@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabarinath</h1>
-<h3 align="center">A passionate Data Scientist from India.</h3>
+<h1 align="center">Hi 👋 I'm Sabarinath k</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 
 ## 🙋‍♂️ About Me
