@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋 I'm Sabarinath k</h1>
+<h1 align="center">Hey! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Sabarinath k</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 
@@ -48,14 +48,14 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
+<!-- 
 <br/>
 <br/>
 
 <a href="https://github.com/SabarinathK/github-readme-activity-graph"><img alt="SabarinathK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SabarinathK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 ## Connect with me:
 <p align="left">
