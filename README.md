@@ -6,9 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Avodha as a DataScience Tutor**
-
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **sabarinathodc@gmail.com**
