@@ -1,28 +1,128 @@
+<h1 align="center">Sabarinath K</h1>
 
+<h3 align="center">
+Production AI/ML Engineer • RAG Systems • Backend Infrastructure • Building in Public
+</h3>
 
-<h1 align="center">Hey! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Sabarinath K</h1>
-<h2 align="center"> A passionate and self-driven AI Engineer currently working in the field</h2>
-
-
-
-
-|     | Languages & Tool |       | Languages & Tool |        | Languages & Tool | 
-| -------- | ------- | -------- | ------- | -------- | ------- |
-| Languages | <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/nolan/64/rust-programming-language--v1.png"/> </a> | Frontend | <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> | Backend    | <img src="https://img.icons8.com/nolan/64/flask.png"/><img src="https://img.icons8.com/color/48/undefined/django.png"/>|
-| Database | <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/postgreesql.png"/> </a><a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>|Version Control|<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>|Cloud|<img src="https://img.icons8.com/color/48/undefined/amazon-web-services.png"/><img src="https://img.icons8.com/color/48/undefined/heroku.png"/>|
-
-
-
-
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/sabarinath-k-bio/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<p align="center">
+  <a href="https://github.com/SabarinathK/Vectrion">
+    <img src="https://img.shields.io/badge/Building-Vectrion (Production RAG)-blue?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/SabarinathK">
+    <img src="https://img.shields.io/github/followers/SabarinathK?label=Followers&style=social"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sabarinath-k-bio/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SabarinathK">
-</a>
-<a href="https://github.com/SabarinathK?tab=followers"><img src="https://img.shields.io/github/followers/SabarinathK?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+
+## Who I Am
+
+I design and ship **production-grade AI systems** — not notebooks, not demos.
+
+5+ years building ML/DL systems that survive real-world constraints:
+- latency limits  
+- multi-tenant isolation  
+- async workloads  
+- observability requirements  
+- cost constraints  
+- scaling beyond “hello world”  
+
+Right now I’m building **Vectrion** — a clean, pragmatic, production-ready RAG backend — fully in public.
+
+---
+
+## 🚀 Current Focus: Vectrion
+
+A backend-first, infrastructure-minded Retrieval-Augmented Generation system designed for real SaaS usage.
+
+### Core Architecture
+- FastAPI (async API layer)
+- Celery + RabbitMQ (distributed task processing)
+- PostgreSQL + SQLAlchemy (transactional state)
+- Qdrant (vector search)
+- Redis (caching + rate limiting)
+- PyTorch + Transformers (embeddings + inference)
+- Dockerized services
+
+### What I’m Solving
+
+Most RAG tutorials ignore:
+- idempotent ingestion
+- duplicate chunk prevention
+- tenant data isolation
+- observability
+- backup strategy
+- long-running ingestion tasks
+- retry-safe pipelines
+- cost control
+
+Vectrion is built to handle all of that.
+
+### In Progress (45-Step Execution Plan)
+- Async PDF ingestion pipeline
+- Chunking + embedding pipeline
+- Top-K semantic retrieval
+- Guardrails (input/output filtering)
+- Multi-turn memory
+- Prometheus metrics
+- Jaeger tracing
+- PITR backups
+- Dockerized deployable MVP
+
+Public roadmap:
+https://github.com/SabarinathK/Vectrion/blob/main/docs/execution-plan.md
+
+Target: Launch MVP + Open Source release in ~40 days.
+
+---
+
+## 🧠 What I Specialize In
+
+- Production RAG systems
+- GenAI backend architecture
+- ML system design
+- Async Python systems
+- Distributed task orchestration
+- ML infra with observability
+- Cost-aware AI deployment
+
+---
+
+## 🛠 Tech Stack
+
+Python • FastAPI • Celery • RabbitMQ  
+PostgreSQL • SQLAlchemy • Qdrant • Redis  
+PyTorch • HuggingFace Transformers  
+Docker • Prometheus • Jaeger  
+
+---
+
+## 🎯 2026 Goals
+
+- Ship Vectrion MVP publicly
+- Document production RAG patterns
+- Publish deep technical breakdowns
+- Contribute to open-source GenAI infra
+- Collaborate with founders building AI-first products
+
+---
+
+## 💼 Open To
+
+Remote Backend / AI / ML Engineering Roles  
+GenAI Infrastructure • RAG Platforms • Production ML Systems  
+
+Prefer India-friendly time zones.
+
+---
+
+## Let’s Connect
+
+GitHub: https://github.com/SabarinathK  
+LinkedIn: https://linkedin.com/in/sabarinath-k-bio  
+Twitter/X: (update handle here — build in public consistently)
+
+If you're building serious AI systems and care about reliability over hype — let’s talk.
