@@ -1,55 +1,50 @@
----
+Hi, I'm Sabarinath 👋
 
-# Hi, I'm Sabarinath 👋
+📍 India | 🌍 Open to remote roles worldwide
+🤖 AI/ML Engineer | Building production-grade LLM apps, agent systems, and AI-native developer tools
 
-📍 India | 🤖 AI / ML Engineer | 🚀 Building AI-powered developer tools
+Python • FastAPI • LangChain • LangGraph • LLMs • RAG • PyTorch • TensorFlow • Docker • Linux • MLOps
 
-Python FastAPI LangChain LangGraph LLMs RAG PyTorch TensorFlow Docker Linux
+Deep in AI-builder mode — shipping scalable RAG pipelines, autonomous agents, and automation that actually reaches production.
 
-> Deep in AI-builder mode — building LLM applications, retrieval systems, and automation tools.
-> After 5+ years building ML models and pipelines, I’m focused on **AI-native product development and agent systems.**
+5+ years engineering ML models → now laser-focused on AI-native product development, LLM orchestration, and agentic workflows that drive real business value.
 
----
+🔨 Current Projects
 
-# Current Projects
+🧠 Vectrion — Battle-tested, production-ready RAG system for knowledge-intensive AI applications (retrieval, reranking, evaluation, hybrid search).
 
-🧠 **Vectrion** – Production-ready Retrieval Augmented Generation (RAG) system for building AI knowledge applications.
+🎬 Voxtrim — AI-powered Video Editor that auto-generates smart captions, removes filler pauses/silence, and accelerates editing 5–10×.
 
-🎬 **Voxtrim**- **AI Video Editor** AI tool that generates captions and removes pauses automatically to speed up video editing workflows.
+🚀 What I'm Doing Right Now
+Engineering end-to-end LLM + RAG systems that scale in production
+
+Building AI agents and multi-step automation workflows (LangGraph, tool-calling, memory, planning)
+
+Rapid-prototyping AI developer tools and APIs (FastAPI-first mindset)
+
+Exploring scalable production AI infra — containerization, CI/CD for models, eval harnesses, cost optimization
+
+📝 Writing & Learning Focus (2026 trends)
+Advanced LLM orchestration & agent frameworks
+Scalable RAG (chunking strategies, vector DBs at scale, hybrid + rerank)
+
+Production AI infrastructure (MLOps, monitoring, A/B testing LLMs)
+
+AI-native software engineering — building products where AI is the core primitive
+
+🏆 Recognition
+
+5+ years hands-on building ML pipelines and production AI systems/APIs
+Delivered multiple end-to-end AI products that shipped to users
+
+Philosophy
+
+Ship fast. Learn fast. Iterate faster. Measure impact.
+
+The future of software is AI-native — and remote teams building it are winning.
+
+Open to interesting remote/full-remote 
+opportunities in AI engineering, agent systems, RAG-heavy apps, or developer tooling. Let's build something powerful ⚡
 
 
----
-
-# What I'm Doing
-
-* Building AI systems using **LLMs + RAG pipelines**
-* Developing **AI agents and automation workflows**
-* Rapid prototyping AI products and developer tools
-* Exploring **AI-native software engineering**
-
----
-
-# Writing & Learning
-
-Currently exploring:
-
-* LLM orchestration
-* AI agent frameworks
-* scalable RAG systems
-* production AI infrastructure
-
----
-
-# Recognition
-
-* 5+ years experience building **ML models and AI pipelines**. 
-* Experience developing **production AI systems and APIs**.
-
----
-
-# Philosophy
-
-> Ship fast. Learn fast. Iterate faster.
-
-AI is changing how software is built — the future belongs to **AI-native engineers.**
-
+DMs open | Always happy to chat LLMs, agents, or production horror stories 😄
