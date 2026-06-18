@@ -26,7 +26,7 @@ Hi, I'm Sabarinath 👋
 
 ## 🤝 Open Source Contributions
 
-*   **[LangChain](https://github.com/langchain-ai/langchain):** Documentation and tutorial contributions
+*   **[LangChain_Docs](https://github.com/langchain-ai/docs/pulls?q=is%3Apr+author%3ASabarinathK+is%3Aclosed):** Documentation and tutorial contributions
 
 ---
 
